@@ -845,7 +845,7 @@ margin-right:0;
 .reserve-store .medal .back{
   width:334px;
   height:334px;
-  backface-visibility:hidden;
+  -webkit-backface-visibility:hidden;
   transition: 1s;
   position: absolute;
 
