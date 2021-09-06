@@ -113,6 +113,7 @@
 .notice .notice-line .inner__left .swiper-container{
   flex-grow: 1;
   height:62px;
+  overflow:hidden;
 }
 
 .notice .notice-line .inner__left .swiper-slide {
